@@ -1,0 +1,25 @@
+{
+  "name": "huud",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.1",
+    "vite": "^5.1.6"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fabric-contract-api": "^2.5.7",
+    "fabric-network": "^1.4.20",
+    "fabric-shim": "^2.5.7"
+  }
+}
